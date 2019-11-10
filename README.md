@@ -1,6 +1,6 @@
 # New Visions Computer Science Residency Project
-##New Visions Residency Project
-####Tanveer Alam
+## New Visions Residency Project
+#### Tanveer Alam
 
 *This project uses live-server which is needed to be downloaded via the npm and Node.JS, it assumes that this has been downloaded into the machine and that these components are present as they are a common tool in the development environment. If directions, are needed to install these, please email me, and I can add them.*
 
@@ -38,7 +38,6 @@ The browser should then display the web page titled New Visions For Public Schoo
 
 Additional Details:
 
-The first function outputs an object of the students ordered by Grade, and in each grade they are also ordered alphabetically, as this was
-assumed from the example output given in the directions.
+The first function outputs an object of the students ordered by Grade, and in each grade they are also ordered alphabetically, as this was assumed from the example output given in the directions.
 
 The second function outputs the students with the lowest average for each grade, and in the case that there is more than one student with the lowest grade, it will display all the students that have the lowest grades, and this is apparent in the console output.
