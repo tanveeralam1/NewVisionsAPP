@@ -36,7 +36,11 @@ Finally, we will then run live-server to view our project, with the following co
 
 The browser should then display the web page titled New Visions For Public Schools along with my name, from here please view console to see the desirerd output for the functions described in the performance Task.
 
-Additional Details:
+
+
+
+
+## Additional Details:
 
 The first function outputs an object of the students ordered by Grade, and in each grade they are also ordered alphabetically, as this was assumed from the example output given in the directions.
 
