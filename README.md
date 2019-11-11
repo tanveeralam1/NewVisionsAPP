@@ -2,6 +2,8 @@
 ## New Visions Residency Project
 #### Tanveer Alam
 
+https://github.com/tanveeralam1/NewVisionsAPP
+
 *This project uses live-server which is needed to be downloaded via the npm and Node.JS, it assumes that this has been downloaded into the machine and that these components are present as they are a common tool in the development environment. If directions, are needed to install these, please email me, and I can add them.*
 
 
